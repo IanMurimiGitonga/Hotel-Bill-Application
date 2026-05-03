@@ -8,4 +8,4 @@ It takes in customer orders and provide receipts to the customers.
 - Receipt: Shows the order made,time stamp and amounts.<br/>
 
 ## Technologies Used
--Python
+- Python
